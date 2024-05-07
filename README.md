@@ -1,1 +1,1 @@
-# Weathe-App-using-Python
+# Weather-App-using-Python
